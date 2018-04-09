@@ -4,16 +4,15 @@ Agendar Familiar
 
 App Pessoal para organizar as tarefas familiares e praticar na linguage de programção.
 
-## Hosted at Mysql
+## Hosted at ....
 
 - todo
 
 ## System requirements for development
 
+* [Ubuntu 16.10+][ubuntu]
+* [Go 1.8+][golang]
 
-* [Ubuntu 14.x+][ubuntu]
-* [Go 1.8+][golang]
-* [Go 1.8+][golang]
 
 ## Setup development environment
 
